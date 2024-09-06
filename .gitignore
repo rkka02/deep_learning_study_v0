@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 /mnist
+/data
 
 # C extensions
 *.so
